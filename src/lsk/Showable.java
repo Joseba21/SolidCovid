@@ -1,0 +1,5 @@
+package lsk;
+
+public interface Showable {
+	public void show();
+}
